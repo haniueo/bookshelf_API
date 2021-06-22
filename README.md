@@ -1,4 +1,4 @@
-# bookshelfAPI
+# Submission bookshelf API Dicoding
 Kriteria Bookshelf API
 Terdapat 5 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf API.
 
